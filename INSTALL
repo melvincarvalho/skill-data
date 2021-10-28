@@ -1,0 +1,9 @@
+mkdir data
+cd data
+git init
+
+# add data/ to .gitingore
+
+# NOTES
+# can also use a submodule, or unlinked data dir
+# updaters will need to update this directory too
